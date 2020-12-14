@@ -1,0 +1,12 @@
+public class tic tac toe test
+{
+public.static.void.main(string[]args);
+scanner s= new scanner(system.in);
+int x=0,y=0
+system.out.println(t.player==t.x?"player x turn";player 0 turn);
+system.out.println("enter x and y places");
+y=s.nextInt();
+x=s.nextInt();
+t.putsign(x,y);
+system.out.println(t.to string());
+l.displaywinner();
